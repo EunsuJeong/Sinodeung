@@ -8,7 +8,7 @@ How to collect data, I want to develop another app which is regularity data coll
 this application works in camera app.
 If you take a video for regularity, this app analogy the video and store that at database
 
-/* // What to implement in the oss class
+/* // What to implement in the oss class<br>
 Second tech is What we show on Google map based on previous data
 print marker in latitude and longitude 
 */
