@@ -39,3 +39,9 @@ It will be implemented in Java.
 However, it was not implemented as open source.
 So I can not introduce the license.
 
+# Future Plans
+This work is incomplete.
+I could not write the source code because of the error.
+It is because of the environment that was initially misunderstood.
+So I will not make this application for class purposes, but I will make it an application that I sell later to make money.
+In OSS class, it is regrettable not to be able to make this application.
