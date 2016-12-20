@@ -35,7 +35,7 @@ I will make the navigation by applying the shortest distance algorithm.
 The algorithm applying method is the shortest distance algorithm that takes time to arrive at each traffic light section.
 
 # Introduction
-It was implemented in Python.
+It will be implemented in Java.
 However, it was not implemented as open source.
 So I can not introduce the license.
 
