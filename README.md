@@ -45,3 +45,7 @@ I could not write the source code because of the error.
 It is because of the environment that was initially misunderstood.
 So I will not make this application for class purposes, but I will make it an application that I sell later to make money.
 In OSS class, it is regrettable not to be able to make this application.
+
+![alt tag](https://github.com/EunsuJeong/Sinodeung/blob/master/1.png)
+![alt tag](https://github.com/EunsuJeong/Sinodeung/blob/master/2.png)
+![alt tag](https://github.com/EunsuJeong/Sinodeung/blob/master/3.png)
