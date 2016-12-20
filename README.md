@@ -23,6 +23,19 @@ Navigation for pedestrians.
 Nobody make navigation for pedestrians, only for car.
 So I want to make navigation for pedestrians.
 Traffic Light's regularity and When does it change color, It wastes time so much !
+
 First, We collect data for trafficlight's regularity
 So I want to make collecting data application based on image processing.
-Second, Smart 
+
+Second, Smart TrafficLight's don't have regularity. So I may collect data for contray.
+If we are given the data, we use this data in program.
+
+three, Shortest distance algorithm
+I will make the navigation by applying the shortest distance algorithm.
+The algorithm applying method is the shortest distance algorithm that takes time to arrive at each traffic light section.
+
+# Introduction
+It was implemented in Python.
+However, it was not implemented as open source.
+So I can not introduce the license.
+
