@@ -1,7 +1,10 @@
-# Sinodeung
+### Project Name : Sinodeung
 
+# Team Name : Euntrue
+# Teammate Name : Eunsu Jeong
+
+"I wanted to do this project"
 This Application is made for OSS class's Assignment and my personal greed.
-
 
 Fisrt tech is data collection application for traffic light's regularity.
 How to collect data, I want to develop another app which is regularity data collect application.
@@ -14,3 +17,12 @@ print marker in latitude and longitude <br>
 */
 
 Final tech is pedestrians are available this application which applies shortest distance algorithm
+
+# Project Vision and Explaination
+Navigation for pedestrians.
+Nobody make navigation for pedestrians, only for car.
+So I want to make navigation for pedestrians.
+Traffic Light's regularity and When does it change color, It wastes time so much !
+First, We collect data for trafficlight's regularity
+So I want to make collecting data application based on image processing.
+Second, Smart 
